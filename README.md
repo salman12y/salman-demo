@@ -1,2 +1,3 @@
-# salman-demo
-This is my first GitHub respository
+# Salman-demo
+This is my first Git respository.
+Author-Salman
